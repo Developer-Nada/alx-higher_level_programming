@@ -1,2 +1,3 @@
+#!/ust/bin/python3
 type
 
